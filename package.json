@@ -1,0 +1,33 @@
+{
+  "name": "scriptmentor",
+  "version": "1.0.2",
+  "description": "scriptmentor",
+  "type": "module",
+  "main": "scriptmentor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biancardipzu9/scriptmentor"
+  },
+  "website": "https://github.com/biancardipzu9/scriptmentor.git",
+  "keywords": [
+    "scriptmentor"
+  ],
+  "author": "biancardipzu9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biancardipzu9/scriptmentor/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/biancardipzu9/scriptmentor#readme",
+  "dependencies": {
+    "codegeniuskit": "1.0.2",
+    "devcraftbox": "1.0.2",
+    "programwiz": "1.0.2"    
+      }
+}
